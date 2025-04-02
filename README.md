@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IguanaChelera
-- 👀 I’m interested in codes and cars
+- 👋 Hi, I’m Ivan Reyes, @IguanaChelera 
+- 👀 I’m interested in databases and cars 
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: Idk, it's my first time in Github
